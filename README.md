@@ -1,8 +1,8 @@
-# 2025 CCPBioSim Training Week materials
+# 2026 CCPBioSim Training Week materials
 
-[![CI](https://github.com/openforcefield/ccpbiosim-2025/actions/workflows/ci.yaml/badge.svg)](https://github.com/openforcefield/ccpbiosim-2025/actions/workflows/ci.yaml)
+[![CI](https://github.com/openforcefield/ccpbiosim-workshop/actions/workflows/ci.yaml/badge.svg)](https://github.com/openforcefield/ccpbiosim-workshop/actions/workflows/ci.yaml)
 
-These tutorials were delivered at the 2025 CCPBioSim training week, but are suitable for self-guided learning.
+These tutorials were delivered at the 2026 CCPBioSim training week, but are suitable for self-guided learning.
 
 Presenters:
 
@@ -40,6 +40,6 @@ $ mamba activate openff-env
 
 ## Acknowledgements
 
-Most of the material for the notebook [Parameterising small molecules with OpenFF](notebooks/small_molecule_parameterisation.ipynb) was adapted from the [2023 CCPBioSim Workshop Open Force Field Sessions](https://github.com/openforcefield/ccpbiosim-2023?) created by Matt Thompson and Jeff Wagner.
+Most of the material for the notebook [Parameterising small molecules with OpenFF](notebooks/small_molecule_parameterisation.ipynb) was adapted from the [2023 CCPBioSim Workshop Open Force Field Sessions](https://github.com/openforcefield/ccpbiosim-2023?) created by Matt Thompson and Jeff Wagner, as well as the [Simulating Post-Translationally Modified Proteins with the OpenFF Rosemary Alpha Workshop](https://github.com/openforcefield/2026-virtual-workshops/blob/main/ptm/ptm-workshop.ipynb) from Ashley Mitchell.
 
 Most of the material for the notebook [Parameterisation, molecular dynamics, and basic trajectory analysis for a protein-ligand complex](notebooks/protein_ligand_complex_parameterisation_and_md.ipynb) was adapted from the OpenFF [toolkit showcase](https://docs.openforcefield.org/en/latest/examples/openforcefield/openff-toolkit/toolkit_showcase/toolkit_showcase.html) and the [ProLIF Ligand-protein MD tutorial](https://prolif.readthedocs.io/en/latest/notebooks/md-ligand-protein.html#ligand-protein-md).
