@@ -3,8 +3,10 @@ channels:
     - conda-forge
 dependencies:
     - jupyterlab
-    - openff-toolkit-examples>=0.17.0 # New version needed for NAGL compat.
-    - openff-interchange>=0.4.7 # New version needed for NAGL compat.
+    - openff-toolkit-examples>=0.19.0 # Need at least 0.17.0 for NAGL compat.
+    - openff-interchange>=0.5.4 # Need at least 0.4.7 for NAGL compat.
+    - packmol # Needed to pack water box only
+    - ambertools # Needed for AM1-BCC charge assignment comparison only
     - MDAnalysis
     - prolif
     - py3dmol # For 3D visualization of of interactions in prolif
