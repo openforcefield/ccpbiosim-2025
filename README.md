@@ -1,6 +1,6 @@
 # 2026 CCPBioSim Training Week materials
 
-[![CI](https://github.com/openforcefield/ccpbiosim-2025/actions/workflows/ci.yaml/badge.svg)](https://github.com/openforcefield/ccpbiosim-workshop/actions/workflows/ci.yaml)
+[![CI](https://github.com/openforcefield/ccpbiosim-workshop/actions/workflows/ci.yaml/badge.svg)](https://github.com/openforcefield/ccpbiosim-workshop/actions/workflows/ci.yaml)
 
 These tutorials were delivered at the 2026 CCPBioSim training week, but are suitable for self-guided learning.
 
